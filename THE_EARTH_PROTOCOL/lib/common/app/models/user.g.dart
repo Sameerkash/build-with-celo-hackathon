@@ -6,7 +6,6 @@ part of 'user.dart';
 // JsonSerializableGenerator
 // **************************************************************************
 
-// ignore: non_constant_identifier_names
 _$_UserModel _$$_UserModelFromJson(Map<String, dynamic> json) => _$_UserModel(
       userId: json['userId'] as String? ?? 'MakeThisIdUnique',
       timestamp: json['timestamp'] as String? ?? 'today',
@@ -25,7 +24,6 @@ _$_UserModel _$$_UserModelFromJson(Map<String, dynamic> json) => _$_UserModel(
       carbonFootprint: json['carbonFootprint'] as int? ?? 0,
     );
 
-// ignore: non_constant_identifier_names
 Map<String, dynamic> _$$_UserModelToJson(_$_UserModel instance) =>
     <String, dynamic>{
       'userId': instance.userId,
