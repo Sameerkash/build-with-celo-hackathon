@@ -21,3 +21,7 @@ The Sustain app will help incentivize users for building sustainbale habits and 
 It will also have a lot of other focus areas like collaborations with other protocols for enhancing user experience as well as focus on research and development for better usecases for industries.
 
 The Earth protocol will incorporate core concepts of Refi, NFTs and DAOs to build an ecosystem of tools and solutinos focued on solving climate change using Celo's carbon negative blockchain.
+
+
+## Architecture
+![Sustain](./architecture.png)
